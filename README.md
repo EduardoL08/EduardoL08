@@ -17,28 +17,19 @@
 </td>
 <td><a href="https://replit.com/"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:edulourenco321@gmail.com" target="_blank"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="Gmail:edulourenco321@gmail.com" target="_blank"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5533998645698" target="_blank"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/eduardolourenco08/" target="_blank"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/EduardoL08/" target="_blank"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/ /" target="_blank"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="http://lattes.cnpq.br/" target="_blank"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.skoob.com.br/perfil/Eduardo" target="_blank"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/eduardo/" target="_blank"><img src="https://github.com/EduardoL08/EduardoL08/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-</tr>
-<tr>
  <td align="center" colspan="11"></td>
 </tr> 
 </table>
