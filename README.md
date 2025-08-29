@@ -10,18 +10,17 @@
 ---
 
 ## 👨‍💻 Sobre mim
-Sou **Eduardo Lourenço**, 18 anos, de **Belo Horizonte**.  
+Sou **Eduardo Lourenço Rodrigues **, tenho 19 anos, moro em **Belo Horizonte MG**.  
 Programo desde os 17 anos e atualmente estudo **Sistemas de Informação** no [Centro Universitário Newton Paiva](https://newtonpaiva.br/).  
-Busco oportunidades em **desenvolvimento backend (Java)** ou **análise de dados**, aplicando conhecimentos em **Java, Python, SQL, Node.js, APIs e Cloud (AWS, Docker)**.  
-Sou apaixonado por **processamento de dados, automação de processos, integração de sistemas** e boas práticas de programação (**Clean Code, TDD**).
-
+Busco oportunidades em **desenvolvimento backend (Java)** ou **análise de dados**, aplicando conhecimentos em **Java, Python, SQL, Node.js, APIs e Cloud **.  
+Sou muito interesado por **processamento de dados, automação de processos, integração de sistemas** e boas práticas de programação.
 ---
 
 ## 🎯 Meus interesses
 - Desenvolvimento Backend em **Java**  
 - Análise e interpretação de dados, **Business Intelligence (BI)**  
 - Automação de processos e integração de sistemas  
-- Desenvolvimento de **APIs RESTful**  
+- Desenvolvimento de **APIs **  
 - Aplicação de boas práticas de programação (**Clean Code, TDD**)  
 - Cloud Computing (**AWS, Docker, CI/CD**)  
 - Aprendizado contínuo e resolução de desafios complexos  
