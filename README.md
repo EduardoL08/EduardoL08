@@ -4,7 +4,7 @@
 <div align="center">
   <img alt="Header" src="https://github.com/EduardoL08/EduardoL08/blob/main/img/header.png?raw=true" width="100%"/>
   <h2>Olá, eu sou o Eduardo 👋</h2>
-  <p>Programador | Desenvolvedor Java junior | Analista de Dados em formação</p>
+  <p>Desenvolvedor Java | Analista de Dados em formação</p>
 </div>
 
 
