@@ -30,13 +30,9 @@ Sou muito interesado por **processamento de dados, automação de processos, int
 ## 🛠️ Skills / Tecnologias
 <div align="center">
 <img src="https://img.shields.io/badge/Java-Expert-blue?logo=java"/>
-<img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
 <img src="https://img.shields.io/badge/C-Enthusiast-blue"/>
 <img src="https://img.shields.io/badge/SQL-Intermediate-blue?logo=mysql"/>
 <img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
-<img src="https://img.shields.io/badge/Node.js-Dev-blue?logo=node.js"/>
-<img src="https://img.shields.io/badge/Next.js-Dev-blue?logo=next.js"/>
-<img src="https://img.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
 <img src="https://img.shields.io/badge/Docker-Dev-blue?logo=docker"/>
 <img src="https://img.shields.io/badge/Flask-Dev-blue?logo=flask"/>
 <img src="https://img.shields.io/badge/FastAPI-Dev-blue?logo=fastapi"/>
