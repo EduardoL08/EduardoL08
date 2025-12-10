@@ -33,10 +33,3 @@ Sou muito interesado por **processamento de dados, automação de processos, int
 <img src="https://img.shields.io/badge/SQL-Intermediate-blue?logo=mysql"/>
 <img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
 <img
-
----
-
-<div align="center">
-© 2024 Eduardo Lourenço  
-Última atualização: badge de last commit (opcional)
-</div>
