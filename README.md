@@ -44,23 +44,6 @@ Sou muito interesado por **processamento de dados, automação de processos, int
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoL08&theme=github_dark"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardoL08&theme=github_dark"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoL08&theme=github_dark"/>
-</div>
-
----
-
-
-## 📬 Contatos
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edulourenco321@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5533998645698)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/959151773728251914)
-</div>
 
 
 
