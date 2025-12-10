@@ -53,25 +53,6 @@ Sou muito interesado por **processamento de dados, automação de processos, int
 
 ---
 
-## 📂 Projetos recentes
-<div align="center">
-[![Projeto 1](https://img.shields.io/badge/Projeto1-Java-blue)](https://github.com/EduardoL08/Projeto1)  
-[![Projeto 2](https://img.shields.io/badge/Projeto2-Python-blue)](https://github.com/EduardoL08/Projeto2)  
-[![Projeto 3](https://img.shields.io/badge/Projeto3-Node.js-blue)](https://github.com/EduardoL08/Projeto3)
-</div>
-
----
-
-## 🎵 Música / Spotify
-<details>
-<summary>🎧 Meu Spotify</summary>
-<div align="center">
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/>
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
-</div>
-</details>
-
----
 
 ## 📬 Contatos
 <div align="center">
@@ -81,13 +62,7 @@ Sou muito interesado por **processamento de dados, automação de processos, int
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/959151773728251914)
 </div>
 
----
 
-## 🏆 Conquistas
-- 💻 Mais de **100k linhas de código** nos repositórios  
-- 🏅 Participação em projetos open-source  
-- 📚 Contribuições em comunidades de Python e TI  
-- 🏆 Certificações e cursos online em desenvolvimento backend e data analytics  
 
 ---
 
