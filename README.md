@@ -13,5 +13,5 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Java-Intermediario-blue?logo=java"/>
 <img src="https://img.shields.io/badge/SQL-Intermediate-blue?logo=mysql"/>
-<img src="https://img.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
+<img src="https://img.shields.io/badge/JavaScript-Basico-blue?logo=javascript"/>
 <img
