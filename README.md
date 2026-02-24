@@ -1,12 +1,12 @@
 <div align="center">
   <img alt="Header" src="https://github.com/EduardoL08/EduardoL08/blob/main/img/header.png?raw=true" width="100%"/>
   <h2>Olá, eu sou o Eduardo 👋</h2>
-  <p>Desenvolvedor Java | Analista de Dados em formação</p>
+  <p>Desenvolvedor de Sistemas | Analista de Dados em formação</p>
 </div>
 
-🎓 Estou atualmente cursando uma graduação bacharelado em**Sistenas de Informação**em universidade <a href="https://newtonpaiva.br/" target="_blank">**Newton Paiva Wyden**</a> (5th semestre - previsão de conclusão em: 2027).<br/><br/>
-🎯 Focado na interseção de **Desenvolvedor de sistemas**e**Análise/Engenharia de dados**.<br/><br/>
-📧 Entre em contato comigo: [edulourenco321@gmail.com](mailto:edulourenco321@gmail.com).<br/><br/>
+ Estou atualmente cursando uma graduação bacharelado em**Sistenas de Informação**em universidade <a href="https://newtonpaiva.br/" target="_blank">**Newton Paiva Wyden**</a> (5th semestre - previsão de conclusão em: 2027).<br/><br/>
+ Focado na interseção de **Desenvolvedor de sistemas**e**Análise/Engenharia de dados**.<br/><br/>
+ Entre em contato comigo: [edulourenco321@gmail.com](mailto:edulourenco321@gmail.com).<br/><br/>
 
 
 <p align="left">
