@@ -1,14 +1,15 @@
 <div align="center">
   <img alt="Header" src="https://github.com/EduardoL08/EduardoL08/blob/main/img/header.png?raw=true" width="100%"/>
   <h2>Olá, eu sou o Eduardo 👋</h2>
-  <p>Desenvolvedor de Sistemas | Analista de Dados em formação</p>
+  <p>Desenvolvedor de Software em formação</p>
 </div>
 
- Estou atualmente cursando uma graduação bacharelado em **Sistenas de Informação** em universidade <a href="https://newtonpaiva.br/" target="_blank">**Newton Paiva Wyden**</a> (5 semestre com previsão de conclusão em: 2027).<br/><br/>
- Focado na interseção de **Desenvolvedor de sistemas**e**Análise/Engenharia de dados**.<br/><br/>
- Entre em contato comigo: [edulourenco321@gmail.com](mailto:edulourenco321@gmail.com).<br/><br/>
+🎓 Atualmente, sou estudante do bacharelado em **Sistemas de Informação** na <a href="https://newtonpaiva.br/" target="_blank">**Newton Paiva Wyden**</a> (5º semestre, com previsão de formatura no final de 2027).<br/><br/>
+🚀 Meu foco de estudos e projetos está na interseção entre o **Desenvolvimento de Sistemas** e a **Análise/Engenharia de Dados**.<br/><br/>
+📫 Sinta-se à vontade para entrar em contato: [edulourenco321@gmail.com](mailto:edulourenco321@gmail.com).<br/><br/>
 
------
+---
+
 ## 🛠️ Skills / Tecnologias
 
 ### Backend
@@ -34,24 +35,32 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
 ### IDEs
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
------
+
+---
+
 ## 📊 GitHub Stats
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoL08&theme=github_dark"/>
+
+<div align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoL08&theme=github_dark" alt="GitHub Stats"/>
 </div>
 
------
-##  Conecti-se Comigo
-<p alinhar="esquerda">
-<a href="mailto:edulourenco321@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://wa.me/5533998645698"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<a href="https://www.instagram.com/eduardo_lourenco08/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.linkedin.com/in/eduardo-lourenco-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nathan"/></a>
-</p>
+---
+
+## 📫 Conecte-se Comigo
+
+<div align="left">
+  <a href="mailto:edulourenco321@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/5533998645698" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/eduardo_lourenco08/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/eduardo-lourenco-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true" width="100%"/>
