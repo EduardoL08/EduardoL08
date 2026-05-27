@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoL08&theme=nord_dark" alt="GitHub Stats"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoL08&theme=solarized_dark" alt="GitHub Stats"/>
 </div>
 
 ---
