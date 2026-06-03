@@ -65,3 +65,15 @@
 <div align="center">
   <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true" width="100%"/>
 </div>
+
+## 🐍 Watch my contributions get eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhupendra05/bhupendra05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhupendra05/bhupendra05/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/bhupendra05/bhupendra05/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
