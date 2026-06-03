@@ -69,11 +69,9 @@
 ## 🐍 Watch my contributions get eaten
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhupendra05/bhupendra05/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhupendra05/bhupendra05/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/bhupendra05/bhupendra05/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoL08/EduardoL08/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoL08/EduardoL08/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/EduardoL08/EduardoL08/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
