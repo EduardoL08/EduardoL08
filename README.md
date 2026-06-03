@@ -66,7 +66,7 @@
   <img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true" width="100%"/>
 </div>
 
-## 🐍 Watch my contributions get eaten
+## 🐍 Vejam minhas contribuições serem devoradas. 😂😂
 
 <div align="center">
   <picture>
