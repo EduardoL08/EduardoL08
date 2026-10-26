@@ -4,7 +4,7 @@
   <p>Desenvolvedor de Software em formação</p>
 </div>
 
-🎓 Atualmente, sou estudante do bacharelado em **Sistemas de Informação** na <a href="https://newtonpaiva.br/" target="_blank">**Newton Paiva Wyden**</a> (5º semestre, com previsão de formatura no final de 2027).<br/><br/>
+🎓 Atualmente, sou estudante do bacharelado em **Sistemas de Informação** na <a href="https://newtonpaiva.br/" target="_blank">**Newton Paiva Wyden**</a> (6º semestre, com previsão de formatura no final de 2027).<br/><br/>
 🚀 Meu foco de estudos e projetos está na interseção entre o **Desenvolvimento de Sistemas** e a **Análise/Engenharia de Dados**.<br/><br/>
 📫 Sinta-se à vontade para entrar em contato: [edulourenco321@gmail.com](mailto:edulourenco321@gmail.com).<br/><br/>
 
